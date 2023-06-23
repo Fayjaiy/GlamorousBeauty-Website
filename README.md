@@ -15,7 +15,13 @@ Code Review: The team conducted a thorough review of the website's code to ident
 
 Penetration Testing: Regular penetration testing was conducted to identify any new vulnerabilities that may arise.
 
-Conclusion:
-In conclusion, the Glamorous Beauty team successfully remedied the vulnerabilities on their website and made it secure against XSS attacks. By implementing proper security measures, they were able to safeguard their users' sensitive information and maintain the trust and confidence of their customers. It is important for website owners to take website security seriously and regularly assess and address potential vulnerabilities to ensure a safe and secure online experience for their users.
+![image](https://github.com/Fayjaiy/GlamorousBeauty-Website/assets/102144973/1cdab926-1949-453c-9b86-7d9fb6ff9d9f)
+![image](https://github.com/Fayjaiy/GlamorousBeauty-Website/assets/102144973/fd883f75-0bfb-4b49-b9e6-0c5646c1f229)
+![image](https://github.com/Fayjaiy/GlamorousBeauty-Website/assets/102144973/47245f13-92d5-405c-a363-5ba9a576e8a2)
+![image](https://github.com/Fayjaiy/GlamorousBeauty-Website/assets/102144973/5ac5d3fb-26f2-498b-86ec-0b91bf7a8829)
+![image](https://github.com/Fayjaiy/GlamorousBeauty-Website/assets/102144973/3a0d2742-fc66-4109-a58c-de83cc99f8d8)
+
+
+
 
 
